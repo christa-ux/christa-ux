@@ -86,6 +86,7 @@ I am a Fresh Graduate Software Engineer based in Montreal.
 <a href="https://github.com/christa-ux/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christa-ux" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christa-ux&hide_progress=true&langs_count=8&card_width=320" />
 </a>
