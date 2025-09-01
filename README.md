@@ -13,7 +13,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Fresh Graduate Software Engineer based in Montreal.
+I am a Fresh Graduate Software Engineer based in Montreal. I'm currently pursuing my Master's degree in Computer Engineering, Option Cybersecurity.
 - 🌱I’m interested in Web development, Cybersecurity, and Consulting.
 - :chart_with_upwards_trend: I love to build cool projects and learn new skills .
 - :musical_keyboard: In my free time, I play the piano.
